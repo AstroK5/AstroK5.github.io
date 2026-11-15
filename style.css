@@ -349,3 +349,6 @@ footer {
   .timeline > li { grid-template-columns: 1fr; gap: 8px; }
   .what { padding-left: 20px; }
 }
+
+.sub.first { margin-top: 0; }
+.card.static:hover { transform: none; border-color: var(--line); box-shadow: none; }
