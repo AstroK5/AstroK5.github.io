@@ -352,3 +352,6 @@ footer {
 
 .sub.first { margin-top: 0; }
 .card.static:hover { transform: none; border-color: var(--line); box-shadow: none; }
+
+.foot-links a { color: var(--text); }
+.foot-links a:hover, .foot-links a:focus-visible { color: var(--gold); }
