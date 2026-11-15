@@ -355,3 +355,5 @@ footer {
 
 .foot-links a { color: var(--text); }
 .foot-links a:hover, .foot-links a:focus-visible { color: var(--gold); }
+
+::selection { background: var(--gold); color: #1a1205; }
